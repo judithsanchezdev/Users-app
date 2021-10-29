@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anime-app</string>
+    <string name="description_photo">imagen anime</string>
+    <string name="sp_firts_time">firstTime</string>
+    <string name="dialog_title">Registro de  anime</string>
+    <string name="dialog_confirm">Registrar</string>
+</resources>
